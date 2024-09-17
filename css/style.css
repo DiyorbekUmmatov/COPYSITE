@@ -454,7 +454,7 @@ body {
 } */
 footer {
   /* position: fixed; */
-  background: #411f9a;
+  background: #ffffff;
   width: 100%;
   bottom: 0;
   left: 0;
@@ -499,10 +499,10 @@ footer .content .top {
   transition: all 0.4s ease;
 }
 .top .media-icons a:nth-child(1) {
-  background: #4267b2;
+  background: #ff017c
 }
 .top .media-icons a:nth-child(1):hover {
-  color: #4267b2;
+  color: #0055ff;
   background: #fff;
 }
 .top .media-icons a:nth-child(2) {
@@ -513,7 +513,7 @@ footer .content .top {
   background: #fff;
 }
 .top .media-icons a:nth-child(3) {
-  background: #e1306c;
+  background: #ff0000;
 }
 .top .media-icons a:nth-child(3):hover {
   color: #e1306c;
@@ -542,7 +542,7 @@ footer .content .link-boxes .box {
   width: calc(100% / 5 - 10px);
 }
 .content .link-boxes .box .link_name {
-  color: #fff;
+  color: #000000;
   font-size: 18px;
   font-weight: 400;
   margin-bottom: 10px;
@@ -562,7 +562,7 @@ footer .content .link-boxes .box {
   list-style: none;
 }
 .content .link-boxes .box li a {
-  color: #fff;
+  color: #000000;
   font-size: 14px;
   font-weight: 400;
   text-decoration: none;
